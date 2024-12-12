@@ -74,6 +74,7 @@ WE CAN USE MODELS LIKE:
 1. Installation
    - Go to https://ollama.com
    - Click on the Download button
+   ![image](https://github.com/user-attachments/assets/a73e2111-e87d-4829-99b2-50ea6613cfdc)
    - 
 3. Setup
 
